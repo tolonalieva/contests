@@ -1,0 +1,72 @@
+@media screen and (max-width: 1000px){
+    .container-inner{
+        max-width: 90%;
+    }
+    .main-header{
+        width: 80%;
+    }
+    .block-fuul-name{
+        width: 48%;
+        margin-bottom: 100px;
+    }
+    .block-application{
+        width: 48%;
+    }
+    .row-form{
+        margin-bottom: 11px;
+    }
+    .row-form-radio{
+        margin-bottom: 50px;
+    }
+    .surname,
+    .patronymic{
+        width: 100%;
+    }
+    .name{
+        width: 100%;
+    }
+    .block-contact{
+        width: 100%;
+    }
+    .block-contact-number{
+        width: 48%;
+    }
+}
+@media screen and (max-width: 650px){
+    .form-header{
+        display: block;
+    }
+    .block-fuul-name{
+        width: 100%;
+    }
+    .block-application{
+        width: 100%;
+    }
+    .form-contact{
+        display: block;
+    }
+    .block-contact-number{
+        width: 100%;
+    }
+    .send{
+        display: block;
+    }
+    .btn{
+        margin-bottom: 25px;
+    }
+    .item{
+        font-size: 12px;
+    }
+    .footer{
+        text-align: center;
+    }
+    .nav{
+        display: block;
+    }
+    .title{
+        font-size: 41px;
+    }
+    .logo{
+        width: 90px;
+    }
+}
